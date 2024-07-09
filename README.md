@@ -12,7 +12,7 @@ The integration between Arduino programming (Arduino IDE) and Python (VS Code) i
   USB cable for Arduino
   Computer with Arduino IDE and VS Code
   
-#Libraries and Tools
+# Libraries and Tools
   Arduino IDE
   Python 3.x
   pySerial library for Python
