@@ -5,13 +5,16 @@ The mouse movements are controlled by tilting the MPU6050 sensor, and the left c
 The integration between Arduino programming (Arduino IDE) and Python (VS Code) is achieved via serial connection, with the pyAutoGUI library used to automate mouse movements.
 
 # Components
-  Arduino Uno
-  MPU6050 sensor
-  4 push-button switches
-  Breadboard and jumper wires
-  USB cable for Arduino
-  Computer with Arduino IDE and VS Code
-  
+ # Required Components
+
+1. Arduino Uno
+2. MPU6050 sensor
+3. 4 push-button switches
+4. Breadboard and jumper wires
+5. USB cable for Arduino
+6. Computer with Arduino IDE
+7. Visual Studio Code
+   
 # Libraries and Tools
   Arduino IDE
   Python 3.x
